@@ -27,14 +27,15 @@ Sharing lockouts does not require the host being present at the required locatio
 ### ⚙️ **Visual Preview**  
 
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/4ed7244d-d5b0-436e-9958-5bb0839d328d" alt="Preview" width="420" />
+  <img src="https://github.com/user-attachments/assets/6167a576-9c52-429a-9634-b143bb5d3bbc" alt="Preview" width="420" />
 </p>
 
 ---
 
 ## 🏰 **Available Instances**  
 
-### **Raids**  
+
+### <img src="https://github.com/user-attachments/assets/42d54c34-21f8-41d3-940f-328bc1a3e1c9" width="25" height="25"> **Raids**
  ![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714) **Firelands [N/H]**  -  (Alysrazor -> Majordomo - Ragnaros)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/ability_mount_fireravengodmount.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=71665/flametalon-of-alysrazor" target="_blank">Flametalon of Alysrazor</a>, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_orb_05.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=69224/smoldering-egg-of-millagazor" target="_blank">Smoldering Egg of Millagazor</a>  
 
  ![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742) **Ulduar [N]**  -  (Yogg-Saron)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_03.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=45693/mimirons-head" target="_blank">Mimiron's Head</a>  
@@ -56,7 +57,8 @@ Sharing lockouts does not require the host being present at the required locatio
 _Note:_ This mount requires you to trade in both necklaces, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_10_dungeonjewelry_primalist_necklace_1_air.jpg" width="16" height="16"> <a href="https://www.wowhead.com/item=195496/eye-of-the-vengeful-hurricane" target="_blank">Eye of the Vengeful Hurricane</a> and <img src="https://wow.zamimg.com/images/wow/icons/large/inv_10_dungeonjewelry_primalist_trinket_4_earth.jpg" width="16" height="16"> <a href="https://www.wowhead.com/item=195502/terross-captive-core" target="_blank">Terros's Captive Core</a>. 
 
 
-### **Mega Dungeons**  
+## 
+### <img src="https://github.com/user-attachments/assets/8440d23a-c187-48a7-8f17-84dd321eff06" width="25" height="25"> **Mega Dungeons** 
  ![Legion](https://static.wikia.nocookie.net/wowpedia/images/f/fd/Legion-Logo-Small.png/revision/latest?cb=20150808040028) **Return to Karazhan [M]**  -  (Attumen the Huntsman)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_skeletalwarhorse_black.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=142236/midnights-eternal-reins#dropped-by" target="_blank">Midnight</a>  
   _Note:_ Once inside go left, follow the wall on the right, go through the door and jump down.
   
@@ -69,8 +71,11 @@ _Note:_ This mount requires you to trade in both necklaces, <img src="https://wo
   _Note:_ Quantum is a unique item to transfers into one of unearned random mounts from <a href="https://www.wowhead.com/item=208216/reins-of-the-quantum-courser#contains" target="_blank">previous expansions.</a>.
 
 
-### **Transmog & Pets** 
+##
+### <img src="https://github.com/user-attachments/assets/38f791a2-a6ac-4f8f-9c09-f3b4469e8c39" width="25" height="25"> **Transmog & Pets** 
  ![The Burning Crusade](https://static.wikia.nocookie.net/wowpedia/images/0/0e/Bc_icon.gif/revision/latest?cb=20110218184702) **Black Temple [N]**  -  <a href="https://www.youtube.com/watch?v=_p73PZIDQuA&ab_channel=Galnix" target="_blank">(Illidan Stormrage)</a> -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_weapon_glave_01.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=32837/warglaive-of-azzinoth" target="_blank">(Demon Hunter) Warglaives of Azzenoth </a>
+
+  ![Cataclysm](https://static.wikia.nocookie.net/wowpedia/images/e/ef/Cata-Logo-Small.png/revision/latest?cb=20120818171714) ![Daily](https://static.wikia.nocookie.net/wowpedia/images/3/37/AvailableDailyIcon.png) <a href="https://www.wowhead.com/quest=26710/lost-in-the-deeps" target="_blank">**Lost in The Deep Daily Quest**</a>  -  <img src="https://wow.zamimg.com/images/wow/icons/large/spell_nature_earthelemental_totem.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=60869/pebble" target="_blank">(Pet) Pebble </a> - Whisper `!lost` to receive the quest. 
   
  ![Mists of Pandaria](https://static.wikia.nocookie.net/wowpedia/images/2/26/Mists-Logo-Small.png/revision/latest?cb=20120407193524) **Siege of Orgrimmar [N/H]**  -  (Kor'kron)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_misc_enggizmos_18.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=105751/korkron-shamans-treasure" target="_blank">(Shaman Set) Kor'kron Shaman's Treasure </a>
 
@@ -84,8 +89,8 @@ _Note:_ This mount requires you to trade in both necklaces, <img src="https://wo
 
 ![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245) **Amirdrassil The Dream's Hope [N/H]**  -  (Fyrakk)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordeathknight.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=210536/renewed-proto-drake-embodiment-of-the-blazing" target="_blank">(Renewed Proto-Drake) Embodiment of the Blazing</a>
 
-
-### **Horde Only Raids** 
+##
+### <img src="https://wow.zamimg.com/images/wow/icons/large/ui_hordeicon-round.jpg" width="25" height="25"> **Horde Specific Raids** 
  ![Wrath of the Lich King](https://static.wikia.nocookie.net/wowpedia/images/c/c1/Wrath-Logo-Small.png/revision/latest?cb=20090403101742) **Icecrown Citadel [H]**  -  (Lich King)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/spell_deathknight_summondeathcharger.jpg" width="20" height="20"> <a href="https://www.wowhead.com/wotlk/item=50818/invincibles-reins" target="_blank">Invincible's Reins</a>  
   Please carefully read the following steps as they are all required:  
   **I.** Set the raid to Heroic difficulty and 25-player mode, kill the first boss (Lord Marrowgar), then exit ICC.  
