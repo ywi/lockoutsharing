@@ -22,7 +22,7 @@ Sharing lockouts does not require the host being present at the required locatio
 - For Normal, type `!normal` or `!nhc`. (Default Setting) 
 - For Heroic, type `!heroic` or `!hc` in party chat or whisper.  
 - Once inside the instance, you have type `+` to notify me you're done, so I can assist others (I’ll leave the group automatically after 30 seconds).  
-- If you'd like to take the lead and invite more people or list a group, type `++` in party chat (you’ll have 60 seconds to do so).  
+- Or If you'd like to take the lead and invite more people or list a group, type `++` in party chat (you’ll have 60 seconds to do so).  
 
 ### ⚙️ **Visual Preview**  
 
@@ -125,12 +125,14 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 2. Click on **Join or Create Community**.  
 3. Enter either invite code `DG5Ze4RuY9J` or `gWLnZNbuNPG` in the **Join Community** section and click **Join**.  
 
-**Important:**  
-- If you see the message: *No player named Damasco-TheMaelStrom is currently playing*, ensure the following:  
+📖 **Important:**  
+- If you see the message: *No player named Ywishare-Illidan is currently playing*, ensure the following:  
 - You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
-- If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.  
+- If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.
 
-### 👥 **How to Invite Players to My Lockout**  
+**Tip:** You can also check my status using the in-game communities. <a href="https://imgur.com/a/ZxA4g7P" target="_blank">Screenshot Preview</a> 
+
+### 👥 **How to Invite Players to to the instance:**  
 1. Type `++` in chat **after** entering the instance.   
 2. List your group in the **Group Finder**.  
 3. Invite other players.  
@@ -141,6 +143,7 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 
 ### 🪙 **Tipping**  
 _What I offer is free and will always be. No strings attached, but if you feel like showing some appreciation, feel free to mail your desired amount of **gold** to_ `ywi-tarrenmill`.  
+<br>
 🌍 _Don’t have a character on Tarren Mill? Create a new Allied Race character and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20"> <a href="https://news.blizzard.com/en-us/article/24115313/get-the-band-together-for-warbands#:~:text=Carting%20Around%20Your%20Band%20Equipment,deposit%20and%20withdraw%20items%20freely." target="_blank">Warband Bank</a>  to transfer gold across realms._  
 
 ---
