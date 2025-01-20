@@ -10,8 +10,8 @@ Sharing lockouts does not require the host being present at the required locatio
 ## 📝 **Instructions** 
 
 ### 📢 **In-game Community**  
-0. Join either of my in-game communities with one of the following codes:  
-🔗 `DG5Ze4RuY9J` or if full use `gWLnZNbuNPG` instead. (Because Alliance can't whisper Horde) 
+0. Use any of the following invite codes for status tracking and accessing the player communities: 
+<br>🔗 `DG5Ze4RuY9J`, `gWLnZNbuNPG`, or `XEV595pugqO`. (This is done to grant  Alliance access to /w  Horde players.) 
 
 ### 👥 **For Everyone**  
 1. Ensure you're not in a party standing in front of the supported instance you like to join. (List below).  
@@ -123,14 +123,14 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 ### 🛡️ **How do I  Join the In-Game Community?**  
 1. Open the Guild window (default keybind: `J`).  
 2. Click on **Join or Create Community**.  
-3. Enter either invite code `DG5Ze4RuY9J` or `gWLnZNbuNPG` in the **Join Community** section and click **Join**.  
+3. Enter any of the invite codes `DG5Ze4RuY9J`, `gWLnZNbuNPG`, or `XEV595pugqO` in the **Join Community** section and click **Join**.  
 
 📖 **Important:**  
 - If you see the message: *No player named Ywishare-Illidan is currently playing*, ensure the following:  
 - You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
 - If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.
 
-**Tip:** You can also check my status using the in-game communities. <a href="https://imgur.com/a/ZxA4g7P" target="_blank">Screenshot Preview</a> 
+**Tip:** You can also check my status and access an alternative inviting method using the in-game communities. <a href="https://imgur.com/a/ZxA4g7P" target="_blank">Screenshot Preview</a> 
 
 ### 👥 **How to Invite Players to to the instance:**  
 1. Type `++` in chat **after** entering the instance.   
