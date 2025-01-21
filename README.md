@@ -128,9 +128,11 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 📖 **Important:**  
 - If you see the message: *No player named Ywishare-Illidan is currently playing*, ensure the following:  
 - You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
-- If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.
+- If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.<br>
 
-**Tip:** You can also check my status and access an alternative inviting method using the in-game communities. <a href="https://imgur.com/a/ZxA4g7P" target="_blank">Screenshot Preview</a> 
+**Tip:** You can also check my status and access direct inviting through the in-game communities.  
+
+<img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f" width="225" height="225"> <br>
 
 ### 👥 **How to Invite Players to to the instance:**  
 1. Type `++` in chat **after** entering the instance.   
@@ -150,13 +152,13 @@ _What I offer is free and will always be. No strings attached, but if you feel l
 
 ## 🌟 **Credits**  
 
-Special thanks to **Kamian** & **Fudrick** from the *Lords of the Reins* Discord Server for updating <a href="https://wago.io/ad-Y8KWhv" target="_blank">the abandoned weakaura </a> and offering me their guidance. 
+Special thanks to **Fudrick** & **Kamian** from the *Lords of the Reins* Discord Server for updating <a href="https://wago.io/ad-Y8KWhv" target="_blank">the abandoned weakaura </a> and offering me their guidance. 
 
 ---
 
 ## ❓ **Contact**  
 
-Feel free to reach out to me directly for any inquires or questions you may have, through <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="14" height="12"> discord: `@ywi`.
+Feel free to reach out to me directly for inquires or questions you may have, through <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="14" height="12"> discord: `@ywi`.
    
 ---
 
