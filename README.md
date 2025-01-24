@@ -125,7 +125,7 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 2. Click on **Join or Create Community**.  
 3. Enter any of the invite codes `DG5Ze4RuY9J`, `gWLnZNbuNPG`, or `XEV595pugqO` in the **Join Community** section and click **Join**.  
 
-📖 **Important:**  
+### 📖 **Important:**  
 - If you see the message: *No player named Ywishare-Illidan is currently playing*, ensure the following:  
 - You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
 - If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.<br>
