@@ -30,6 +30,15 @@ Sharing lockouts does not require the host being present at the required locatio
   <img src="https://github.com/user-attachments/assets/6167a576-9c52-429a-9634-b143bb5d3bbc" alt="Preview" width="420" />
 </p>
 
+📖 **Important:**  
+- If you see the message: *No player named Ywishare-Illidan is currently playing*, ensure the following:  
+- You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
+- If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.<br>
+
+**Tip:** You can also check my status and access direct inviting through the in-game communities.  
+
+<img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f"> <br>
+
 ---
 
 ## 🏰 **Available Instances**  
@@ -124,15 +133,6 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 1. Open the Guild window (default keybind: `J`).  
 2. Click on **Join or Create Community**.  
 3. Enter any of the invite codes `DG5Ze4RuY9J`, `gWLnZNbuNPG`, or `XEV595pugqO` in the **Join Community** section and click **Join**.  
-
-### 📖 **Important:**  
-- If you see the message: *No player named Ywishare-Illidan is currently playing*, ensure the following:  
-- You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
-- If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.<br>
-
-**Tip:** You can also check my status and access direct inviting through the in-game communities.  
-
-<img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f" width="225" height="225"> <br>
 
 ### 👥 **How to Invite Players to to the instance:**  
 1. Type `++` in chat **after** entering the instance.   
