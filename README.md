@@ -65,6 +65,8 @@ Sharing lockouts does not require the host being present at the required locatio
  ![Dragonflight](https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245) **Vault of the Incarnates [N/H]** (Dathea - Terros) -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_riverotterlargemount01_black.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=198871/iskaara-traders-ottuk" target="_blank">Iskaara traders ottuk</a>  
 _Note:_ This mount requires you to trade in both necklaces, <img src="https://wow.zamimg.com/images/wow/icons/large/inv_10_dungeonjewelry_primalist_necklace_1_air.jpg" width="16" height="16"> <a href="https://www.wowhead.com/item=195496/eye-of-the-vengeful-hurricane" target="_blank">Eye of the Vengeful Hurricane</a> and <img src="https://wow.zamimg.com/images/wow/icons/large/inv_10_dungeonjewelry_primalist_trinket_4_earth.jpg" width="16" height="16"> <a href="https://www.wowhead.com/item=195502/terross-captive-core" target="_blank">Terros's Captive Core</a>. 
 
+ <img src="https://github.com/user-attachments/assets/ed101f9d-62a4-4669-92f1-123336d83533" width="46" height="25"> **Nerub-ar Palace [N/H]**  -  (Queen Ansurek)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_nerubianwarbeastmount_blue.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=224147/reins-of-the-sureki-skyrazor" target="_blank">Reins of the Sureki Skyrazor</a>
+
 
 ## 
 ### <img src="https://github.com/user-attachments/assets/8440d23a-c187-48a7-8f17-84dd321eff06" width="25" height="25"> **Mega Dungeons** 
