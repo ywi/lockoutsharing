@@ -129,7 +129,7 @@ If you’re looking for specific collectables, feel free to reach out and let me
 Absolutely, lockout sharing has been practiced since Mists of Pandaria and is a crucial feature within the game. I'm logged in on my wow2 using a **Weakaura** both entirely safe to use in World of Warcraft and comply with Blizzard's Terms of Service.
 
 ### 🆓 **Is this free?**  
-Yes, and **forever**! We're all fighting RNG, I find joy in making the grind easier for others. Keep me posted with what mounts you earn. 
+Yes, and **forever**! We're all fighting RNG.
 
 ### 🛡️ **How do I  Join the In-Game Community?**  
 1. Open the Guild window (default keybind: `J`).  
@@ -142,13 +142,6 @@ Yes, and **forever**! We're all fighting RNG, I find joy in making the grind eas
 3. Invite other players.  
 
 **Tip:** Instead of listing your group in the Group Finder, you could directly invite a friend at step 3. However, this is not recommended as your friend will have less than **25 seconds** to accept the invitation. The Group Finder remains available for longer.  
-
----
-
-### 🪙 **Tipping**  
-_What I offer is free and will always be. No strings attached, but if you feel like showing some appreciation, feel free to mail your desired amount of **gold** to_ `ywi-tarrenmill`.  
-<br>
-🌍 _Don’t have a character on Tarren Mill? Create a new Allied Race character and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20"> <a href="https://news.blizzard.com/en-us/article/24115313/get-the-band-together-for-warbands#:~:text=Carting%20Around%20Your%20Band%20Equipment,deposit%20and%20withdraw%20items%20freely." target="_blank">Warband Bank</a>  to transfer gold across realms._  
 
 ---
 
