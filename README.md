@@ -155,12 +155,6 @@ Special thanks to **Fudrick** & **Kamian** from the *Lords of the Reins* Discord
 
 Feel free to reach out to me directly for inquires or questions you may have, through <img src="https://img.icons8.com/color/48/discord-logo.png" alt="Discord" width="14" height="12"> discord: `@ywi`.
    
----
-
-If you like this project, please consider giving it a star! It helps others discover the project and shows your support. 😊<br>
-
-[![Star this repo](https://img.shields.io/github/stars/YWI/lockoutsharing?style=social)](https://github.com/YWI/lockoutsharing)
-
 
 
 
