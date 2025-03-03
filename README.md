@@ -11,7 +11,7 @@ Sharing lockouts does not require the host being present at the required locatio
 
 ### 📢 **In-game Community**  
 0. Use any of the following invite codes for status tracking and accessing the player communities: 
-<br>🔗 `DG5Ze4RuY9J`, `gWLnZNbuNPG`, or `XEV595pugqO`. (This is done to grant  Alliance access to /w  Horde players.) 
+<br>🔗 `DG5Ze4RuY9J`, `gWLnZNbuNPG`, `XEV595pugqO`, or `WZdJGqLt03v`. (This is done to grant  Alliance access to /w  Horde players.) 
 
 ### 👥 **For Everyone**  
 1. Ensure you're not in a party standing in front of the supported instance you like to join. (List below).  
@@ -134,7 +134,7 @@ Yes, and **forever**! We're all fighting RNG.
 ### 🛡️ **How do I  Join the In-Game Community?**  
 1. Open the Guild window (default keybind: `J`).  
 2. Click on **Join or Create Community**.  
-3. Enter any of the invite codes `DG5Ze4RuY9J`, `gWLnZNbuNPG`, or `XEV595pugqO` in the **Join Community** section and click **Join**.  
+3. Enter any of the invite codes `DG5Ze4RuY9J`, `gWLnZNbuNPG`, `XEV595pugqO`, or `WZdJGqLt03v`. in the **Join Community** section and click **Join**.  
 
 ### 👥 **How to Invite Players to to the instance:**  
 1. Type `++` in chat **after** entering the instance.   
