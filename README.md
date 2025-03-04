@@ -10,8 +10,9 @@ Sharing lockouts does not require the host being present at the required locatio
 ## 📝 **Instructions** 
 
 ### 📢 **In-game Community**  
-0. Use any of the following invite codes for status tracking and accessing the player communities: 
-<br>🔗 `DG5Ze4RuY9J`, `gWLnZNbuNPG`, `XEV595pugqO`, or `WZdJGqLt03v`. (This is done to grant  Alliance access to /w  Horde players.) 
+0. Use the following codes for **online** status tracking and accessing the player communities.﻿﻿﻿
+* Primary Community **(for your main only)**:  `gWL73BKI2G9` 
+* Communities for All Alts: `XEV595pugqO`, or `WZdJGqLt03v`. 
 
 ### 👥 **For Everyone**  
 1. Ensure you're not in a party standing in front of the supported instance you like to join. (List below).  
