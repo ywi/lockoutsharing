@@ -1,29 +1,35 @@
 # <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> Lockout Sharing by **ywi**
 
-## 🎯 **What is Lockout Sharing?**  
-<a href="https://wowpedia.fandom.com/wiki/Raid_lockout" target="_blank">Lockout Sharing</a> in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout. A player with a saved lockout can invite others to their group.  
-For example, if the 9th boss drops a mount, I invite you to a lockout where the first 8 bosses are already killed—you join and directly kill the 9th boss. 
-Sharing lockouts does not require the host being present at the required location making the process completely automatic. 
+## 🎯 What is Lockout Sharing?  
+[Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
+A player with a saved lockout can invite others to their group.  
+
+### 🔹 Example:  
+If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosses are already killed—you join and directly kill the 9th boss.  
+✅ The host does not need to be present, making the process automatic.
 
 ---
 
-## 📝 **Instructions** 
+## 📝 How to Use  
 
-### 📢 **In-game Community**  
-0. Use the following codes for **online** status tracking and accessing the player communities.﻿﻿﻿
-* Primary Community **(for your main only)**:  `gWL73BKI2G9` 
-* Communities for All Alts: `XEV595pugqO`, or `WZdJGqLt03v`. 
+### 📢 In-game Communities  
+Use these codes for status tracking and accessing whispers:  
+- **Communities for all alts:** `XEV595pugqO`, `WZdJGqLt03v`
+- **Primary Community (for your main character only):** `gWL73BKI2G9`   
 
-### 👥 **For Everyone**  
-1. Ensure you're not in a party standing in front of the supported instance you like to join. (List below).  
-2. Whisper `/w Ywishare-Illidan` `!share` or `!id`.  
-3. Follow the instructions provided in chat.  
+### 👥 Step-by-Step Guide  
+1. Ensure you're **not in a party** and are **in front of the instance** you want to join (see the list below).  
+2. Whisper **Ywishare-Illidan** with one of the following commands:  
+   - `!share` or `!id` to get an available lockout.  
+3. Follow the chat instructions.  
 
-### 🔍 **Additional Commands**  
-- For Normal, type `!normal` or `!nhc`. (Default Setting) 
-- For Heroic, type `!heroic` or `!hc` in party chat or whisper.  
-- Once inside the instance, you have type `+` to notify me you're done, so I can assist others (I’ll leave the group automatically after 30 seconds).  
-- Or If you'd like to take the lead and invite more people or list a group, type `++` in party chat (you’ll have 60 seconds to do so).  
+### 🔍 Additional Commands  
+- **Normal Mode:** `!normal` or `!nhc` (default)  
+- **Heroic Mode:** `!heroic` or `!hc`  
+
+### ✅ After Entering the Instance  
+- Type `+` in chat to confirm you're done. I will leave automatically in **30 seconds**.  
+- Want to invite more players? Type `++` in chat (you have **60 seconds** to list a group).  
 
 ### ⚙️ **Visual Preview**  
 
@@ -36,7 +42,7 @@ Sharing lockouts does not require the host being present at the required locatio
 - You are on a **Aliance character** and have joined my in-game community. If not, you won’t be able to whisper me and will get this error even if I’m online.  
 - If you’re on an **Horde character** or have already joined the community, it simply means I’m offline.<br>
 
-**Tip:** You can also check my status and access direct inviting through the in-game communities.  
+**Tip:** You can also check if I am online and access direct inviting through the in-game communities.  
 
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f"> <br>
 
@@ -127,7 +133,7 @@ If you’re looking for specific collectables, feel free to reach out and let me
 ## ❓ **FAQ**  
 
 ### ✅ **Is this safe?**  
-Absolutely, lockout sharing has been practiced since Mists of Pandaria and is a crucial feature within the game. I'm logged in on my wow2 using a **Weakaura** both entirely safe to use in World of Warcraft and comply with Blizzard's Terms of Service.
+Absolutely, lockout sharing has been practiced since Mists of Pandaria and is know feature within wow. I'm logged in on my wow2 using a **Weakaura** both entirely safe to use in World of Warcraft and comply with Blizzard's Terms of Service.
 
 ### 🆓 **Is this free?**  
 Yes, and **forever**! We're all fighting RNG.
