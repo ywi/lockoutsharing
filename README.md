@@ -13,13 +13,13 @@ If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosse
 ## 📝 How to Use  
 
 ### 📢 In-game Communities  
-Use these codes for status tracking and accessing whispers:  
+Use these codes for status tracking and access to whispering:  
 - **Communities for all alts:** `XEV595pugqO`, `WZdJGqLt03v`
 - **Primary Community (for your main character only):** `gWL73BKI2G9`   
 
 ### 👥 Step-by-Step Guide  
 1. Ensure you're **not in a party** and are **in front of the instance** you want to join (see the list below).  
-2. Whisper **Ywishare-Illidan** with one of the following commands:  
+2. Whisper `Ywishare-Illidan` with one of the following commands:  
    - `!share` or `!id` to get an available lockout.  
 3. Follow the chat instructions.  
 
