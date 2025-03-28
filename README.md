@@ -74,7 +74,7 @@ _Note:_ This mount requires you to trade in both necklaces, <img src="https://wo
 
  <img src="https://github.com/user-attachments/assets/ed101f9d-62a4-4669-92f1-123336d83533" width="46" height="25"> **Nerub-ar Palace [N/H]**  -  (Queen Ansurek)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_nerubianwarbeastmount_blue.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=224147/reins-of-the-sureki-skyrazor" target="_blank">Reins of the Sureki Skyrazor</a>
 
-  <img src="https://github.com/user-attachments/assets/ed101f9d-62a4-4669-92f1-123336d83533" width="46" height="25"> **Liberation of Undermine [N]**  -  (Chrome King Gallywix)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_goblinflyingmachine.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=236960/prototype-a-s-m-r" target="_blank">Prototype A.S.M.R</a>
+<img src="https://github.com/user-attachments/assets/ed101f9d-62a4-4669-92f1-123336d83533" width="46" height="25"> **Liberation of Undermine [N] (HC coming soon)**  -  (Chrome King Gallywix)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_goblinflyingmachine.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=236960/prototype-a-s-m-r" target="_blank">Prototype A.S.M.R</a>
 
 
 ## 
