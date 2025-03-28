@@ -74,6 +74,8 @@ _Note:_ This mount requires you to trade in both necklaces, <img src="https://wo
 
  <img src="https://github.com/user-attachments/assets/ed101f9d-62a4-4669-92f1-123336d83533" width="46" height="25"> **Nerub-ar Palace [N/H]**  -  (Queen Ansurek)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_nerubianwarbeastmount_blue.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=224147/reins-of-the-sureki-skyrazor" target="_blank">Reins of the Sureki Skyrazor</a>
 
+  <img src="https://github.com/user-attachments/assets/ed101f9d-62a4-4669-92f1-123336d83533" width="46" height="25"> **Liberation of Undermine [N]**  -  (Chrome King Gallywix)  -  <img src="https://wow.zamimg.com/images/wow/icons/large/inv_goblinflyingmachine.jpg" width="20" height="20"> <a href="https://www.wowhead.com/item=236960/prototype-a-s-m-r" target="_blank">Prototype A.S.M.R</a>
+
 
 ## 
 ### <img src="https://github.com/user-attachments/assets/8440d23a-c187-48a7-8f17-84dd321eff06" width="25" height="25"> **Mega Dungeons** 
@@ -150,6 +152,14 @@ Yes, and **forever**! We're all fighting RNG.
 
 **Tip:** Instead of listing your group in the Group Finder, you could directly invite a friend at step 3. However, this is not recommended as your friend will have less than **25 seconds** to accept the invitation. The Group Finder remains available for longer.  
 
+---
+
+### 🪙 **Tipping**  
+ _What I offer is free and will always be. No strings attached, but if you feel like showing some appreciation,  <br>
+ feel free to mail **gold** to_ `ywi-tarrenmill`.  
+ <br>
+ 🌍 _Don’t have a character on Tarren Mill? Create a new Allied Race character and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20"> <a href="https://news.blizzard.com/en-us/article/24115313/get-the-band-together-for-warbands#:~:text=Carting%20Around%20Your%20Band%20Equipment,deposit%20and%20withdraw%20items%20freely." target="_blank">Warband Bank</a>  to transfer gold across realms._  
+ 
 ---
 
 ## 🌟 **Credits**  
