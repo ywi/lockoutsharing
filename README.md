@@ -16,9 +16,17 @@ If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosse
 ## 📝 How to Use  
 
 ### 📢 In-game Communities  
-Use these codes for status tracking and access to whispering:  
-- **Communities for all alts:** `XEV595pugqO`, `WZdJGqLt03v`
-- **Primary Community (for your main character only):** `gWL73BKI2G9`   
+
+To join a community:  
+1. **Open the Guilds & Communities tab** (default key: **J**)  
+2. Click **“Create or Join Community”**  
+3. Paste one of the codes below to join:
+
+- **Communities for all alts:**  
+  `XEV595pugqO`, `WZdJGqLt03v`  
+- **Primary Community (for your main character only):**  
+  `gWL73BKI2G9`
+  
 
 ### 👥 Step-by-Step Guide  
 1. Ensure you're **not in a party** and are **in front of the instance** you want to join (see the list below).  
