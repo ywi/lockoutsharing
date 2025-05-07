@@ -1,7 +1,7 @@
 # <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft Lockout Sharing
 
 ![WoW](https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard)  
-*By **ywi** | Updated: April 28, 2025*
+*By **ywi** | Updated: May 07, 2025*
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -13,40 +13,90 @@ If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosse
 
 ---
 
-## 📝 How to Use  
+## 📝 How to Use
 
-### 📢 In-game Communities  
+### 📢 Join In-Game Communities
+_This is required to access sending whispers cross-faction._<br> 
 
-To join a community:  
-1. **Open the Guilds & Communities tab** (default key: **J**)  
-2. Click **“Create or Join Community”**  
-3. Paste one of the codes below to join:
+To join a community:
 
-- **Communities for all alts:**  
-  `XEV595pugqO`, `WZdJGqLt03v`  
-- **Primary Community (for your main character only):**  
-  `gWL73BKI2G9`
-  
+1. Open the **Guilds & Communities** tab (default key: `J`)
+2. Click **"Create or Join Community"**
+3. Enter one of the following codes:
 
-### 👥 Step-by-Step Guide  
-1. Ensure you're **not in a party** and are **in front of the instance** you want to join (see the list below).  
-2. Whisper `Ywishare-Illidan` with one of the following commands:  
-   - `!share` or `!id` to get an available lockout.  
-3. Follow the chat instructions.  
+- **Alt Communities:**
+  - `XEV595pugqO`
+  - `WZdJGqLt03v`
 
-### 🔍 Additional Commands  
+- **Primary Community (Main Character Only):**<br> 
+_Status updates are posted there._
+  - `gWL73BKI2G9`
+
+## 🚀 Getting a lockout
+
+1. Make sure you're **not in a party** and standing **outside the instance** you want to join.
+2. Whisper `/w Ywishare-Illidan !id` to receive a lockout.
+3. Follow the instructions provided in chat.
+
+### 🔍 Optional Commands
+
 - **Normal Mode:** `!normal` or `!nhc` (default)  
-- **Heroic Mode:** `!heroic` or `!hc`  
+- **Heroic Mode:** `!heroic` or `!hc`
 
-### ✅ After Entering the Instance  
-- Type `+` in chat to confirm you're done. I will leave automatically in **30 seconds**.  
-- Want to invite more players? Type `++` in chat (you have **60 seconds** to list a group).  
+### 👥 After Entering the Instance
 
+- Want to invite more players? Type `++` — you’ll have **60 seconds** to list your group. (Raid:Legacy permits crossfaction listings)
+- Otherwise type `+` in chat to confirm you're done — the character will leave automatically in **30 seconds**.
+   
 ### ⚙️ **Visual Preview**  
 
 <p align="center">
   <img src="https://github.com/user-attachments/assets/6167a576-9c52-429a-9634-b143bb5d3bbc" alt="Preview" width="420" />
 </p>
+
+## ❓ FAQ
+
+<details>
+<summary><strong>🟢 When are you online?</strong></summary>
+<br>
+You can check if I am online and access direct invites through the in-game communities.<br>
+I also post whenever I'm online on the Primary community.<br>
+<img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
+</details>
+
+<details>
+<summary><strong>🛡️ Is this safe?</strong></summary>
+<br>
+Yes, lockout sharing is a standard feature since Mists of Pandaria. I use a **WeakAura** (fully compliant with Blizzard’s Terms of Service) to automate the process.
+</details>
+
+<details>
+<summary><strong>💸 Is this free?</strong></summary>
+<br>
+Free, always! We’re all fighting RNG...
+</details>
+
+<details>
+<summary><strong>❌ Why do I see "No player named Ywishare-Illidan is currently playing"?</strong></summary>
+<br>
+If you see this message, please check the following:
+- Make sure you've joined my in-game community if you’re on an Alliance character.  
+  If not, you won’t be able to whisper me, and this error will appear even if I’m online.
+- If you're on a Horde character or have already joined the community, it means I’m simply offline.
+</details>
+
+<details>
+<summary><strong>🛠️ Adding More Instances</strong></summary>
+<br>
+I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
+
+⚠️ **Limitations:**  
+- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, Mythic Raids, and regular dungeons can’t be shared due to Blizzard’s restrictions.  
+- Only Normal/Heroic raids (Siege of Orgrimmar and later) and Mega Dungeons with flexible lockouts are shareable.
+
+**📦 Request Collectibles:**  
+Contact me to add specific instances for transmog, pets, or possible mounts.
+</details>
 
 ---
 
@@ -92,57 +142,10 @@ To join a community:
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" alt="Dragonflight" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Aberrus, The Shadowed Crucible [N/H]** | Scalecommander Sarkareth | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majormage.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=205876/highland-drake-embodiment-of-the-hellforged" target="_blank">Highland Drake: Embodiment of the Hellforged</a> |
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" alt="Dragonflight" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Amirdrassil, The Dream's Hope [N/H]** | Fyrakk | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordeathknight.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=210536/renewed-proto-drake-embodiment-of-the-blazing" target="_blank">Renewed Proto-Drake: Embodiment of the Blazing</a> |
 
-## 🛠️ Adding More Instances
-I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know! **Limitations**:
-- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, Mythic Raids, and regular dungeons can’t be shared due to Blizzard’s restrictions.
-- Only Normal/Heroic raids (Siege of Orgrimmar and later) and Mega Dungeons with flexible lockouts are shareable.
-
-**Request Collectables**: Contact me to add specific instances for transmog, pets, or possible mounts.
-
----
-
-## ❓ FAQ
-
-<details>
-<summary><strong>When are you online?</strong></summary>
-
-You can check if I am online and access direct inviting through the in-game communities.<br> I also post whenever I'm online on the Primary community.<br> 
-<img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f"> <br>
-</details>
-
-<details>
-<summary><strong>Is this safe?</strong></summary>
-
-Yes, lockout sharing is a standard feature since Mists of Pandaria. I use a **WeakAura** (fully compliant with Blizzard’s Terms of Service) to automate the process.
-</details>
-
-<details>
-<summary><strong>Is this free?</strong></summary>
-
-Completely free, always! We’re all battling RNG together.
-</details>
-
-<details>
-<summary><strong>How do I invite others to the instance?</strong></summary>
-
-1. Type `++` in chat after entering.  
-2. List your group in the **Group Finder**.  
-3. Invite players.  
-*Tip*: Direct invites to friends are possible but have a short 25-second window. Group Finder is more reliable.
-</details>
-
-<details>
-<summary><strong>Why do I see "No player named Ywishare-Illidan is currently playing"?</strong></summary>
-   
-   If you see this message, ensure the following: <br> 
-   - You are on an Alliance character and have joined my in-game community.<br> If not, you won’t be able to whisper me and will get this error even if I’m online. <br> 
-   - If you’re on a Horde character or have already joined the community, it simply means I’m offline.
-</details>
-
 ---
 
 ## 🪙 Tipping (Optional)
-This service is **free** with no obligations. If you’d like to show appreciation, send **gold** to `ywi-tarrenmill`.  
+This service is **free** with no obligations. If you’d like to show appreciation, send your desired amount of **gold** to `ywi-tarrenmill`.  
 - **Cross-Realm Tip**: Create an Allied Race character on Tarren Mill and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> [Warband Bank](https://news.blizzard.com/en-us/article/24115313) to transfer gold.
 
 ---
