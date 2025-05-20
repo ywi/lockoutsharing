@@ -86,7 +86,7 @@ If you see this message, please check the following:
 </details>
 
 <details>
-<summary><strong>🛠️ Adding More Instances</strong></summary>
+<summary><strong>🛠️ Adding More Shares</strong></summary>
 <br>
 I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
 
@@ -94,8 +94,8 @@ I believe I’ve covered all available mount instances. If I’ve overlooked any
 - Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, Mythic Raids, and regular dungeons can’t be shared due to Blizzard’s restrictions.  
 - Only Normal/Heroic raids (Siege of Orgrimmar and later) and Mega Dungeons with flexible lockouts are shareable.
 
-**📦 Request Collectibles:**  
-Contact me to add specific instances for transmog, pets, or possible mounts.
+**📦 Requests**  
+Contact me to add specific instances for transmog, pets, quests, or possible mounts.
 </details>
 
 ---
