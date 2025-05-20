@@ -86,7 +86,7 @@ If you see this message, please check the following:
 </details>
 
 <details>
-<summary><strong>🛠️ Adding More Shares</strong></summary>
+<summary><strong>🛠️ Adding More Shares?</strong></summary>
 <br>
 I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
 
