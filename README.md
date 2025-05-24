@@ -145,12 +145,6 @@ Contact me to add specific instances for transmog, pets, quests, or possible mou
 
 ---
 
-## 🪙 Tipping (Optional)
-This service is **free** with no obligations. If you’d like to show appreciation, send your desired amount of **gold** to `ywi-tarrenmill`.  
-- **Cross-Realm Tip**: Create an Allied Race character on Tarren Mill and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> [Warband Bank](https://news.blizzard.com/en-us/article/24115313) to transfer gold.
-
----
-
 ## 🌟 Credits
 Big thanks to **Fudrick** and **Kamian** from the *Lords of the Reins* Discord for updating <a href="https://wago.io/ad-Y8KWhv" target="_blank">the WeakAura</a> and providing guidance.
 
