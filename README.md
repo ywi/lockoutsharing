@@ -1,7 +1,10 @@
 # <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft Lockout Sharing
 
-![WoW](https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard)  
-*By **ywi** | Updated: May 31, 2025*
+<a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
+  <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
+</a>
+  
+*By **ywi** | Updated: June 03, 2025*
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -151,8 +154,11 @@ Big thanks to **Fudrick** and **Kamian** from the *Lords of the Reins* Discord f
 ---
 
 ## 📬 Contact
-For questions or suggestions, reach out via:  
+For any questions or suggestions, feel free to post in the in-game communities. If needed, you can contact me directly.
 - **Discord**: `@ywi`  
-- **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through community being a community member).
+- **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through community being a community member).<br>
+Note: I don’t respond to whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
-![WoW](https://img.shields.io/badge/May%20RNG%20Be%20With%20You!-blueviolet?logo=blizzard)
+<a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
+  <img src="https://img.shields.io/badge/May%20RNG%20Be%20With%20You!-blueviolet?logo=blizzard" alt="WoW">
+</a>
