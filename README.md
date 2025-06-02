@@ -156,7 +156,7 @@ Big thanks to **Fudrick** and **Kamian** from the *Lords of the Reins* Discord f
 ## 📬 Contact
 For any questions or suggestions, feel free to post in the in-game communities. If needed, you can contact me directly.
 - **Discord**: `@ywi`  
-- **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through community being a community member).<br>
+- **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through being a community member).<br>
 Note: I don’t respond to whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
