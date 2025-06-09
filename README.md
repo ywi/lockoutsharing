@@ -25,7 +25,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter one of the following code: `rjb529AUmKJ`
+3. Enter the following code: `rjb529AUmKJ`
 
 - **Primary Community (Main Character Only):**<br> 
 _Status updates are posted there._
