@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
   
-*By **ywi** | Updated: June 03, 2025*
+*By **ywi** | Updated: June 09, 2025*
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -25,11 +25,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter one of the following codes:
-
-- **Alt Communities:**
-  - `XEV595pugqO`
-  - `WZdJGqLt03v`
+3. Enter one of the following code: `rjb529AUmKJ`
 
 - **Primary Community (Main Character Only):**<br> 
 _Status updates are posted there._
