@@ -1,7 +1,7 @@
 # <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft Lockout Sharing
 
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
-  <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
+  <img src="https://img.shields.io/badge/EU-WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
   
 *By **ywi** | Updated: July 03, 2025*
@@ -25,7 +25,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter the following code: `dxdJ4LECE72`
+3. Enter either of the following codes: `dxdJ4LECE72` or `baJ7ldKUomn`
 
 ## 🚀 Getting a lockout
 
