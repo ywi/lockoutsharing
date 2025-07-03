@@ -1,7 +1,7 @@
 # <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft Lockout Sharing
 
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
-  <img src="https://img.shields.io/badge/EU-WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
+  <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
   
 *By **ywi** | Updated: July 03, 2025*
