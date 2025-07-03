@@ -25,11 +25,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter the following code: `zWBejqotAzx`
-
-- **Primary Community (Main Character Only):**<br> 
-_Status updates are posted there._
-  - `gWL73BKI2G9`
+3. Enter the following code: `dxdJ4LECE72`
 
 ## 🚀 Getting a lockout
 
