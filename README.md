@@ -59,7 +59,7 @@ _Status updates are posted there._
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
 You can check if I am online and access direct invites through the in-game communities.<br>
-I also post whenever I'm online on the Primary community.<br>
+I also post whenever I'm online on the discord server. https://discord.gg/Q7p98mwSDC/<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
@@ -157,9 +157,9 @@ Big thanks to **Fudrick** and **Kamian** from the *Lords of the Reins* Discord f
 
 ---
 
-## 📬 Contact
-For any questions or suggestions, feel free to post in the in-game communities. If needed, you can contact me directly.
-- **Discord**: `@ywi`  
+## 📬 Contact & Status Tracking
+For any questions or suggestions, status tracking join the Discord Server: https://discord.gg/Q7p98mwSDC/.
+- **Discord Direct Contact**: `@ywi`  
 - **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through being a community member).<br>
 Note: I don’t respond to whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
