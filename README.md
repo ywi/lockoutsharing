@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
   
-*By **ywi** | Updated: July 02, 2025*
+*By **ywi** | Updated: July 03, 2025*
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -141,6 +141,14 @@ Contact me to add specific instances for transmog, pets, quests, or possible mou
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728" alt="Shadowlands" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Castle Nathria [N/H]** | Sire Denathrius | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_jewelcrafting_crimsonspinel_02.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=183395/pommel-jewel-of-remornia" target="_blank">Pommel Jewel of Remornia (Pet)</a> |
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" alt="Dragonflight" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Aberrus, The Shadowed Crucible [N/H]** | Scalecommander Sarkareth | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majormage.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=205876/highland-drake-embodiment-of-the-hellforged" target="_blank">Highland Drake: Embodiment of the Hellforged</a> |
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" alt="Dragonflight" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Amirdrassil, The Dream's Hope [N/H]** | Fyrakk | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordeathknight.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=210536/renewed-proto-drake-embodiment-of-the-blazing" target="_blank">Renewed Proto-Drake: Embodiment of the Blazing</a> |
+
+---
+
+### 🪙 Tipping  
+What I offer is free and will always be — no strings attached.<br> 
+But if you feel like showing appreciation, feel free to mail any amount of gold to `ywi-tarrenmill`.
+
+🌍 _Don’t have a character on Tarren Mill? <br> Create a new Allied Race character and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20"> <a href="https://news.blizzard.com/en-us/article/24115313/get-the-band-together-for-warbands#:~:text=Carting%20Around%20Your%20Band%20Equipment,deposit%20and%20withdraw%20items%20freely." target="_blank">Warband Bank</a>  to transfer gold across realms._  
 
 ---
 
