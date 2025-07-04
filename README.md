@@ -55,7 +55,7 @@ To join a community:
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
 I post whenever I'm online on the discord server. https://discord.gg/Q7p98mwSDC/<br>
-You can check if I am online and access direct invites through the in-game communities member list.<br>
+You can check if I am online through the in-game communities member list.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
