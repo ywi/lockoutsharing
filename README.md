@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft Lockout Sharing
+# <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft EU Lockout Sharing
 
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
@@ -54,8 +54,8 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-You can check if I am online and access direct invites through the in-game communities.<br>
-I also post whenever I'm online on the discord server. https://discord.gg/Q7p98mwSDC/<br>
+I post whenever I'm online on the discord server. https://discord.gg/Q7p98mwSDC/<br>
+You can check if I am online and access direct invites through the in-game communities member list.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
@@ -142,7 +142,7 @@ Contact me to add specific instances for transmog, pets, quests, or possible mou
 
 ### 🪙 Tipping  
 What I offer is free and will always be — no strings attached.<br> 
-But if you feel like showing appreciation, feel free to mail any amount of gold to `ywi-tarrenmill`.
+But if you feel like showing appreciation, feel free to mail gold to `ywi-tarrenmill`.
 
 🌍 _Don’t have a character on Tarren Mill? <br> Create a new Allied Race character and use the <img src="https://wow.zamimg.com/images/wow/icons/large/inv_cosmicvoid_orb.jpg" width="20" height="20"> <a href="https://news.blizzard.com/en-us/article/24115313/get-the-band-together-for-warbands#:~:text=Carting%20Around%20Your%20Band%20Equipment,deposit%20and%20withdraw%20items%20freely." target="_blank">Warband Bank</a>  to transfer gold across realms._  
 
