@@ -40,8 +40,8 @@ To join a community:
 
 ### 👥 After Entering the Instance
 
-- Want to invite more players? Type `++` — you’ll have **60 seconds** to list your group. (Raid:Legacy permits crossfaction listings)
-- Otherwise type `+` in chat to confirm you're done — the character will leave automatically in **30 seconds**.
+- Want to invite more players? Type `++` — you’ll have **30 seconds** to list your group. (Raid:Legacy permits crossfaction listings)
+- Otherwise type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
    
 ### ⚙️ **Visual Preview**  
 
@@ -54,8 +54,8 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-I post whenever I'm online on the discord server. https://discord.gg/Q7p98mwSDC/<br>
-You can check if I am online through the in-game communities member list.<br>
+I post whenever I'm online on through the discord server. https://discord.gg/Q7p98mwSDC/<br>
+You can also check through in-game communities member lists.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
