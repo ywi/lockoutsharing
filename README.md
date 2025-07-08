@@ -54,7 +54,7 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-I post whenever I'm online on through the discord server. https://discord.gg/Q7p98mwSDC/<br>
+I post whenever I'm online on through the discord server. https://discord.com/invite/Q7p98mwSDC/<br>
 You can also check through in-game communities member lists.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
@@ -154,7 +154,7 @@ Big thanks to **Fudrick** and **Kamian** from the *Lords of the Reins* Discord f
 ---
 
 ## 📬 Contact & Status Tracking
-For any questions or suggestions, status tracking join the Discord Server: https://discord.gg/Q7p98mwSDC/.
+For any questions or suggestions, status tracking join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
 - **Discord Direct Contact**: `@ywi`  
 - **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through being a community member).<br>
 Note: I don’t respond to whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
