@@ -3,8 +3,9 @@
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
-  
-*By **ywi** | Updated: July 09, 2025*
+
+**By @ywi - Total Shares: 40,000+**  
+_Updated: July 09, 2025_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
