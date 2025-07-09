@@ -37,7 +37,7 @@ To join a community:
 
 - **Normal Mode:** `!normal` or `!nhc` (default)  
 - **Heroic Mode:** `!heroic` or `!hc`
-- `!q` To check your current position in the queue.
+- `!q` or `!queue` To check your current position in the queue.
 - `!leave` Removes you from the queue.
 
 ### 👥 After Entering the Instance
