@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
 
-**By @ywi - Total Shares: 40,000+**  
+**By @ywi - Total Shares: 45,000+**  
 _Updated: July 11, 2025_
 
 ## 🎯 What is Lockout Sharing?  
@@ -162,6 +162,7 @@ For any questions or suggestions, status tracking join the Discord Server: https
 - **In-Game**: Whisper `Ywi-Tarrenmill` (Alliance through being a community member).<br>
 Note: I don’t respond to whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
+[![Star this repo](https://img.shields.io/github/stars/ywi/lockoutsharing?style=social)](https://github.com/ywi/lockoutsharing) 
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
   <img src="https://img.shields.io/badge/May%20RNG%20Be%20With%20You!-blueviolet?logo=blizzard" alt="WoW">
 </a>
