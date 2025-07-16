@@ -26,7 +26,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter either of the following codes: `qgV2JLLTVMk` or `baJ7RDviZyJ`
+3. Enter either of the following codes: `qgV2JLLTVMk` or `K3jVlmeFJve`
 
 ## 🚀 Getting a lockout
 
