@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
 
-**By @ywi - Total Shares: 50,000+**  
+**By @ywi - Total Shares: 60,000+**  
 _Updated: July 20, 2025_
 
 ## 🎯 What is Lockout Sharing?  
@@ -26,7 +26,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter either of the following invite codes: `qgV2JLLTVMk` - `K3jVlmeFJve` - `LmjDmpVH3pK` -  `O4jPkpxCnA5` - `74rKEMRSgEm` - `2ZrL7VbSoWp`
+3. Enter either of the following invite codes: `O4jPkpxCnA5` - `74rKEMRSgEm` - `2ZrL7VbSoWp`
 
 ## 🚀 Requesting a lockout
 
