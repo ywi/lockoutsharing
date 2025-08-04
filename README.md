@@ -5,12 +5,11 @@
 </a>
 
 **Hosted by @ywi - Total Shares: 70,000+**  
-_Updated: July 30, 2025_
+_Updated: August 04, 2025_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
 A player with a saved lockout can invite others to their group.  
-
 ### 🔹 Example:  
 If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosses are already killed—you join and directly kill the 9th boss.  
 ✅ The host does not need to be present, making the process automatic.
@@ -21,7 +20,7 @@ If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosse
 
 ### 📢 Join In-Game Communities
 _This is required to access sending whispers cross-faction._<br> 
-It is also where you can track if Ywishare is online through the member list
+It is also where you can track if Ywishare is online through the member list.
 
 To join a community:
 
@@ -29,7 +28,7 @@ To join a community:
 2. Click **"Create or Join Community"**
 3. Enter either of the following invite codes: `O4jPkpxCnA5` - `74rKEMRSgEm` - `2ZrL7VbSoWp` - `rjR7x9eULA2` - `GGjjWk4Hxzj` - `wWBAxJEcZeg`
 
-## 🚀 Requesting a lockout
+## 🚀 Requesting a Lockout
 
 1. Make sure you're **not in a party** and standing **outside the instance** you want to join.
 2. Whisper `/w Ywishare-Illidan !id` to receive a lockout.
@@ -42,8 +41,8 @@ To join a community:
 
 ### 👥 After Entering the Instance
 
-- Want to invite more players? Type `++` once you're inside the instance — you’ll have **30 seconds** to list your group. (Raid:Legacy permits crossfaction listings)
-- Otherwise type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
+- Want to invite more players? Type `++` once you're inside the instance — you’ll have **30 seconds** to list your group. (Raid: Legacy permits cross-faction listings)
+- Otherwise, type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
 
 ### 🔍 Optional Commands
 
@@ -61,7 +60,7 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-You can also simply check if online through the member list of any in-game community.<br>
+You can also simply check if I'm online through the member list of any in-game community.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
@@ -74,17 +73,7 @@ Yes, lockout sharing is a standard feature since Mists of Pandaria. I use a **We
 <details>
 <summary><strong>💸 Is this free?</strong></summary>
 <br>
-Free, always! I despise the very low mount droprates, especially raid mounts - It's nice making it easier for others :)
-</details>
-
-<details>
-<summary><strong>❌ Why do I see "No player named Ywishare-Illidan is currently playing"?</strong></summary>
-<br>
-If you see this message, please check the following:
-- Make sure you've joined my in-game community if you’re on an Alliance character.  
-  If not, you won’t be able to whisper me, and this error will appear even if I’m online.
-- If you're on a Horde character or have already joined the community, it means I’m simply offline.
-  You can check the memberlist to verift If i'm online/offline.
+Free, always! I despise the very low mount drop rates, especially raid mounts — it's nice making it easier for others :)
 </details>
 
 <details>
@@ -93,12 +82,22 @@ If you see this message, please check the following:
 I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
 
 ⚠️ **Limitations:**  
-- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, Mythic Raids,  can’t be shared due to Blizzard’s restrictions.  
+- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, and Mythic Raids can’t be shared due to Blizzard’s restrictions.  
 - Only Normal/Heroic raids (Siege of Orgrimmar and later) and Mega Dungeons with flexible lockouts are shareable.
-- Dungeons can not be shared unless they're a mythic megadungeon, any other difficulity can not be supported
+- Dungeons cannot be shared unless they're a Mythic mega-dungeon; any other difficulty is not supported.
 
 **📦 Requests**  
 Contact me to add specific instances for transmog, pets, quests, or possible mounts.
+</details>
+
+<details>
+<summary><strong>❌ Why do I see "No player named Ywishare-Illidan is currently playing"?</strong></summary>
+<br>
+If you see this message, please check the following:<br>
+- Make sure you've joined my in-game community if you’re on an Alliance character. <br> 
+  If not, you won’t be able to whisper me, and this error will appear even if I’m online.<br>
+- If you're on a Horde character or have already joined the community, it means I’m simply offline.<br>
+  You can check the member list to verify if I'm online/offline.
 </details>
 
 ---
@@ -150,7 +149,7 @@ Contact me to add specific instances for transmog, pets, quests, or possible mou
 
 ## 📬 Contact 
 For chatting, questions, or suggestions - join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
-- ** Direct Discord Contact**: `@ywi`  
+- **Direct Discord Contact**: `@ywi`  
 - **In-Game**: Whisper `Ywi-Tarrenmill` (If Alliance through being a community member).<br>
 Note: I don’t respond to any whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
