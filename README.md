@@ -21,6 +21,7 @@ If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosse
 
 ### 📢 Join In-Game Communities
 _This is required to access sending whispers cross-faction._<br> 
+It is also where you can track if Ywishare is online through the member list
 
 To join a community:
 
@@ -34,17 +35,20 @@ To join a community:
 2. Whisper `/w Ywishare-Illidan !id` to receive a lockout.
 3. Follow the instructions provided in chat.
 
+### 🚦 Before Entering the Instance 
+
+- **Normal Mode:** `!normal` or `!nhc` (default setting if Normal & HC are available)  
+- **Heroic Mode:** `!heroic` or `!hc`
+
+### 👥 After Entering the Instance
+
+- Want to invite more players? Type `++` once you're inside the instance — you’ll have **30 seconds** to list your group. (Raid:Legacy permits crossfaction listings)
+- Otherwise type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
+
 ### 🔍 Optional Commands
 
-- **Normal Mode:** `!normal` or `!nhc` (default)  
-- **Heroic Mode:** `!heroic` or `!hc`
 - `!q` or `!queue` To check your current position in the queue.
 - `!leave` Removes you from the queue.
-
-### 👥 In the Instance
-
-- Want to invite more players? Type `++` — you’ll have **30 seconds** to list your group. (Raid:Legacy permits crossfaction listings)
-- Otherwise type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
    
 ### ⚙️ **Visual Preview**  
 
@@ -57,7 +61,7 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-You can also simply check through the member list of any in-game community.<br>
+You can also simply check if online through the member list of any in-game community.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
@@ -70,7 +74,7 @@ Yes, lockout sharing is a standard feature since Mists of Pandaria. I use a **We
 <details>
 <summary><strong>💸 Is this free?</strong></summary>
 <br>
-Free, always! We’re all fighting RNG...
+Free, always! I despise the very low mount droprates, especially raid mounts - It's nice making it easier for others :)
 </details>
 
 <details>
@@ -80,6 +84,7 @@ If you see this message, please check the following:
 - Make sure you've joined my in-game community if you’re on an Alliance character.  
   If not, you won’t be able to whisper me, and this error will appear even if I’m online.
 - If you're on a Horde character or have already joined the community, it means I’m simply offline.
+  You can check the memberlist to verift If i'm online/offline.
 </details>
 
 <details>
@@ -88,8 +93,9 @@ If you see this message, please check the following:
 I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
 
 ⚠️ **Limitations:**  
-- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, Mythic Raids, and regular dungeons can’t be shared due to Blizzard’s restrictions.  
+- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, Mythic Raids,  can’t be shared due to Blizzard’s restrictions.  
 - Only Normal/Heroic raids (Siege of Orgrimmar and later) and Mega Dungeons with flexible lockouts are shareable.
+- Dungeons can not be shared unless they're a mythic megadungeon, any other difficulity can not be supported
 
 **📦 Requests**  
 Contact me to add specific instances for transmog, pets, quests, or possible mounts.
@@ -142,14 +148,9 @@ Contact me to add specific instances for transmog, pets, quests, or possible mou
 
 ---
 
-## 🌟 Credits
-Big thanks to **Fudrick** and **Kamian** from the *Lords of the Reins* Discord for updating <a href="https://wago.io/ad-Y8KWhv" target="_blank">the WeakAura</a> and providing guidance.
-
----
-
-## 📬 Contact & Status Tracking
+## 📬 Contact 
 For chatting, questions, or suggestions - join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
-- **Discord Direct Contact**: `@ywi`  
+- ** Direct Discord Contact**: `@ywi`  
 - **In-Game**: Whisper `Ywi-Tarrenmill` (If Alliance through being a community member).<br>
 Note: I don’t respond to any whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
