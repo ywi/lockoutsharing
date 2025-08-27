@@ -5,7 +5,7 @@
 </a>
 
 **Hosted by @ywi - Total Shares: 70,000+**  
-_Updated: August 04, 2025_
+_Updated: August 27, 2025_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -26,7 +26,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter either of the following invite codes: `O4jPkpxCnA5` - `74rKEMRSgEm` - `2ZrL7VbSoWp` - `rjR7x9eULA2` - `GGjjWk4Hxzj` - `wWBAxJEcZeg`
+3. Enter either of the following invite codes:  - `74rKEMRSgEm` - `2ZrL7VbSoWp` - `rjR7x9eULA2` - `GGjjWk4Hxzj` - `wWBAxJEcZeg`
 
 ## 🚀 Requesting a Lockout
 
@@ -150,7 +150,7 @@ If you see this message, please check the following:<br>
 ## 📬 Contact 
 For chatting, questions, or suggestions - join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
 - **Direct Discord Contact**: `@ywi`  
-- **In-Game**: Whisper `Ywi-Tarrenmill` (If Alliance through being a community member).<br>
+- **In-Game**: Whisper `Ywi-Tarrenmill` (If Horde: being a community member).<br>
 Note: I don’t respond to any whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
 
 [![Star this repo](https://img.shields.io/github/stars/ywi/lockoutsharing?style=social)](https://github.com/ywi/lockoutsharing) 
