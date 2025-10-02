@@ -105,7 +105,7 @@ If you see this message, please check the following:<br>
 <details>
 <summary><strong>📩 Why didn’t you reply to my whisper?</strong></summary>
 <br>
-I don’t respond to any in-game whispers — Ywishare is hosted on my second laptop and the chat i send is fully automated through my WeakAura.  
+I don’t respond to any in-game whispers besides the available cmds — Ywishare is hosted on my second laptop and the chat i send is fully automated through my WeakAura.  
   
 💬 **Where to Reach Me:**  
 - I’m most active on **Discord** — that’s the best place to contact me.  
