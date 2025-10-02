@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
 
-**Hosted daily by @ywi - Total Shares: 76,000+**  
-_Updated: September 27, 2025_
+**Hosted daily by @ywi - Total Shares: 80,000+**  
+_Updated: October 03, 2025_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -61,7 +61,7 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-You can also simply check if I'm online through the member list of any in-game community.<br>
+I’m online most of the time. You can also check my status anytime through the member list of any in-game community.<br>
 <img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
@@ -99,6 +99,19 @@ If you see this message, please check the following:<br>
   If not, you won’t be able to whisper me, and this error will appear even if I’m online.<br>
 - If you're on a Horde character or have already joined the community, it means I’m simply offline.<br>
   You can check the member list to verify if I'm online/offline.
+  
+</details>
+
+<details>
+<summary><strong>📩 Why didn’t you reply to my whisper?</strong></summary>
+<br>
+I don’t respond to any in-game whispers — Ywishare is hosted on my second laptop and the chat i send is fully automated through my WeakAura.  
+  
+💬 **Where to Reach Me:**  
+- I’m most active on **Discord** — that’s the best place to contact me.  
+- I sometimes check in-game communities, but since there are now over 20, Discord is much more reliable.  
+- Discord: [discord.com/invite/Q7p98mwSDC](https://discord.com/invite/Q7p98mwSDC)
+
 </details>
 
 ---
@@ -151,8 +164,7 @@ If you see this message, please check the following:<br>
 ## 📬 Contact 
 For chatting, questions, or suggestions - join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
 - **Direct Discord Contact**: `@ywi`  
-- **In-Game**: Whisper `Ywi-Tarrenmill` (If Horde: being a community member).<br>
-Note: I don’t respond to any whispers sent to Ywishare, as I receive a high volume of messages about lockouts.
+- **In-Game**: Whisper `Ywi-Tarrenmill` (If Horde: be a community member).<br>
 
 [![Star this repo](https://img.shields.io/github/stars/ywi/lockoutsharing?style=social)](https://github.com/ywi/lockoutsharing) 
 <a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
