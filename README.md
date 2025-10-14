@@ -4,7 +4,7 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
 
-**Hosted daily by @ywi - Total Shares: 80,000+**  
+**Hosted daily by @ywi - Total Shares: 85,000+**  
 _Updated: October 03, 2025_
 
 ## 🎯 What is Lockout Sharing?  
