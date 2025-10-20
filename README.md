@@ -41,7 +41,7 @@ To join a community:
 
 ### 👥 After Entering the Instance
 
-- Want to invite more players? Type `++` once you're inside the instance — you’ll have **30 seconds** to list your group. (Raid: Legacy permits cross-faction listings)
+- Want to invite more players? You can suggest invite your friends before entering or else type `!lead` and enter the instance — you’ll then have **30 seconds** to list your group in lfg. (Raid: Legacy permits cross-faction listings)
 - Otherwise, type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
 
 ### 🔍 Optional Commands
@@ -68,7 +68,9 @@ I’m online most of the time. You can also check my status anytime through the 
 <details>
 <summary><strong>🛡️ Is this safe?</strong></summary>
 <br>
-Yes, lockout sharing is a standard feature since Mists of Pandaria. I use a **WeakAura** (fully compliant with Blizzard’s Terms of Service) to automate the process.
+Yes, lockout sharing is a standard feature since Mists of Pandaria. (fully compliant with Blizzard’s Terms of Service) to automate sharing.
+Lockout sharing addon by Kamian: https://www.curseforge.com/wow/addons/lockoutshare-y
+
 </details>
 
 <details>
@@ -105,7 +107,7 @@ If you see this message, please check the following:<br>
 <details>
 <summary><strong>📩 Why didn’t you reply to my whisper?</strong></summary>
 <br>
-I don’t respond to any in-game whispers besides the available cmds — Ywishare is hosted on my second laptop and the chat i send is fully automated through my WeakAura.  
+I don’t respond to any in-game whispers besides the available cmds — Ywishare is hosted on my second laptop and the chat i send is fully automated through the addon.  
   
 💬 **Where to Reach Me:**  
 - I’m most active on **Discord** — that’s the best place to contact me.  
