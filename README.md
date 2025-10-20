@@ -41,14 +41,14 @@ To join a community:
 
 ### 👥 After Entering the Instance
 
-- Want to invite more players? You can suggest invite your friends before entering or else type `!lead` and enter the instance — you’ll then have **30 seconds** to list your group in lfg. (Raid: Legacy permits cross-faction listings)
+- Want to invite more players? You can suggest invite your friends before entering or else type `!lead` and enter the instance — you’ll then have **30 seconds** to list your group in lfg or invite friends. (Raid: Legacy permits cross-faction listings)
 - Otherwise, type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
 
 ### 🔍 Optional Commands
 
 - `!q` or `!queue` To check your current position in the queue.
 - `!leave` Removes you from the queue.
-- `!tip` Learn how to send gold if you’d like to support the project.
+- `!tip` Learn how to send gold if you’d like to support hosting and access priority queue.
    
 ### ⚙️ **Visual Preview**  
 
@@ -68,7 +68,7 @@ I’m online most of the time. You can also check my status anytime through the 
 <details>
 <summary><strong>🛡️ Is this safe?</strong></summary>
 <br>
-Yes, lockout sharing is a standard feature since Mists of Pandaria. Fully compliant with Blizzard’s Terms of Service, shares occur through weakauras though I now instead use Kamian's latest addon: 
+Yes, lockout sharing is a standard feature since Mists of Pandaria. Fully compliant with Blizzard’s Terms of Service, shares occured commonly through weakauras though I now instead use Kamian's latest sharing addon: 
 https://www.curseforge.com/wow/addons/lockoutshare-y/.
 
 </details>
