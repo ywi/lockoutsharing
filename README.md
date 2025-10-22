@@ -48,7 +48,7 @@ To join a community:
 
 - `!q` or `!queue` To check your current position in the queue.
 - `!leave` Removes you from the queue.
-- `!tip` Learn how to send gold if you’d like to support hosting and access priority queue.
+- `!plus` Learn how to mail gold if you’d like to support hosting and gain access to priority queue.
    
 ### ⚙️ **Visual Preview**  
 
