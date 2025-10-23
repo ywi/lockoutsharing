@@ -5,7 +5,7 @@
 </a>
 
 **Hosted daily by @ywi - Total Shares: 85,000+**  
-_Updated: October 03, 2025_
+_Updated: October 23, 2025_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
