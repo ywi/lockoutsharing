@@ -5,7 +5,7 @@
 </a>
 
 **Hosted daily by @ywi - Total Shares: 85,000+**  
-_Updated: October 23, 2025_
+_Updated: November 01, 2025_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -160,6 +160,7 @@ I don’t respond to any in-game whispers besides the available cmds — Ywishar
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/9/9a/Shadowlands-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20210930025728" alt="Shadowlands" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Castle Nathria [N/H]** | Sire Denathrius | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_jewelcrafting_crimsonspinel_02.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=183395/pommel-jewel-of-remornia" target="_blank">Pommel Jewel of Remornia (Pet)</a> |
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" alt="Dragonflight" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Aberrus, The Shadowed Crucible [N/H]** | Scalecommander Sarkareth | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majormage.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=205876/highland-drake-embodiment-of-the-hellforged" target="_blank">Highland Drake: Embodiment of the Hellforged</a> |
 | <img src="https://static.wikia.nocookie.net/wowpedia/images/6/61/Dragonflight-Icon-Inline.png/revision/latest/scale-to-width-down/48?cb=20220428173245" alt="Dragonflight" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Amirdrassil, The Dream's Hope [N/H]** | Fyrakk | <img src="https://wow.zamimg.com/images/wow/icons/large/inv_glyph_majordeathknight.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=210536/renewed-proto-drake-embodiment-of-the-blazing" target="_blank">Renewed Proto-Drake: Embodiment of the Blazing</a> |
+| <img src="https://static.wikia.nocookie.net/wowpedia/images/4/4b/The_War_Within_logo.png" alt="The War Within" width="35" height="30" style="object-fit: contain; vertical-align: middle;"> **Manaforge Omega [N/H]** | Dimensius | <img src="https://wow.zamimg.com/images/wow/icons/large/spell_holy_circleofrenewal_shadow.jpg" width="25" height="25" style="object-fit: contain; margin-right: 2px;"> <a href="https://www.wowhead.com/item=246565/cosmic-hearthstone" target="_blank">Cosmic Hearthstone</a> |
 
 ---
 
