@@ -26,7 +26,7 @@ To join a community:
 
 1. Open the **Guilds & Communities** tab (default key: `J`)
 2. Click **"Create or Join Community"**
-3. Enter either of the following invite codes:  - `74rKEMRSgEm` - `2ZrL7VbSoWp` - `rjR7x9eULA2` - `GGjjWk4Hxzj` - `wWBAxJEcZeg`
+3. Enter either of the following invite codes:  `2ZrL7VbSoWp` - `rjR7x9eULA2` - `GGjjWk4Hxzj` - `wWBAxJEcZeg`
 
 ## 🚀 Requesting a Lockout
 
@@ -86,8 +86,8 @@ I believe I’ve covered all available mount instances. If I’ve overlooked any
 
 ⚠️ **Limitations:**  
 - Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, and Mythic Raids can’t be shared due to Blizzard’s restrictions.  
-- Only Normal/Heroic raids (Siege of Orgrimmar and later) and Mega Dungeons with flexible lockouts are shareable.
-- Dungeons cannot be shared unless they're a Mythic mega-dungeon; any other difficulty is not supported.
+- Only Normal/Heroic raids (Released after > Siege of Orgrimmar) and Mega Dungeons with flexible lockouts are shareable.
+- Dungeons cannot be shared unless they're a Mythic mega-dungeon; any other difficulty is not supported since the lockout can't be extended from the raid tab.
 
 **📦 Requests**  
 Contact me to add specific instances for transmog, pets, quests, or possible mounts.
@@ -165,7 +165,7 @@ I don’t respond to any in-game whispers besides the available cmds — Ywishar
 ---
 
 ## 📬 Contact 
-For chatting, questions, or suggestions - join the Discord Server: https://discord.com/invite/Q7p98mwSDC/.
+For chat, questions, or suggestions: **Primary in-game community** `gWL73BKI2G9` *(mains only — use other communities for alts)* or join **Discord**: https://discord.com/invite/Q7p98mwSDC/
 - **Direct Discord Contact**: `@ywi`  
 - **In-Game**: Whisper `Ywi-Tarrenmill` (If Horde: be a community member).<br>
 
