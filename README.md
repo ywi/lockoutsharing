@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
 
-**Hosted daily by @ywi - Total Shares: 91,300+**  
-_Updated: January 02, 2026_
+**Hosted daily by [@ywi](https://raider.io/characters/eu/tarren-mill/Ywi) - Total Shares: 91,300+**  
+_Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Last Updated: January 02, 2026_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
