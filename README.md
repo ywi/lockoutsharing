@@ -75,7 +75,7 @@ https://www.curseforge.com/wow/addons/lockoutshare-y/.
 <details>
 <summary><strong>💸 Is this free?</strong></summary>
 <br>
-Free, forever! Ywishare's been online since Jan/2025 & I really despise the very low mount drop rates, especially raid mounts — it's nice making tehse hectic farms easier for others :)
+Free, forever! Ywishare's been online since Jan/2025 & I really despise the very low mount drop rates, especially raid mounts — it's nice making these hectic farms easier for others :)
 </details>
 
 <details>
