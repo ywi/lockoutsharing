@@ -67,7 +67,7 @@ I’m online most of the time. You can also check my status anytime through the 
 <details>
 <summary><strong>🛡️ Is this safe?</strong></summary>
 <br>
-Yes, lockout sharing is a standard feature since Mists of Pandaria. Fully compliant with Blizzard’s Terms of Service, I started shares occured commonly through weakauras in 2025, though I now instead use Kamian's latest sharing addon: 
+Yes, lockout sharing is a standard feature since Mists of Pandaria. Fully compliant with Blizzard’s Terms of Service, I started sharing in 2025 which commonly occured through custom weakauras in 2025, though I now instead use Kamian's latest sharing addon: 
 https://www.curseforge.com/wow/addons/lockoutshare-y/.
 
 </details>
