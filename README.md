@@ -67,7 +67,7 @@ I’m online most of the time. You can also check my status anytime through the 
 <details>
 <summary><strong>🛡️ Is this safe?</strong></summary>
 <br>
-Yes, lockout sharing is a standard feature since Mists of Pandaria. Fully compliant with Blizzard’s Terms of Service, shares occured commonly through weakauras though I now instead use Kamian's latest sharing addon: 
+Yes, lockout sharing is a standard feature since Mists of Pandaria. Fully compliant with Blizzard’s Terms of Service, I started shares occured commonly through weakauras in 2025, though I now instead use Kamian's latest sharing addon: 
 https://www.curseforge.com/wow/addons/lockoutshare-y/.
 
 </details>
@@ -75,7 +75,7 @@ https://www.curseforge.com/wow/addons/lockoutshare-y/.
 <details>
 <summary><strong>💸 Is this free?</strong></summary>
 <br>
-Free, always! I despise the very low mount drop rates, especially raid mounts — it's nice making it easier for others :)
+Free, forever! Ywishare's been online since Jan/2025 & I really despise the very low mount drop rates, especially raid mounts — it's nice making tehse hectic farms easier for others :)
 </details>
 
 <details>
