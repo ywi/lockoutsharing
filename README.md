@@ -4,8 +4,8 @@
   <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
 </a>
 
-**Hosted daily by @ywi - Total Shares: 90,100+**  
-_Updated: December 24, 2025_
+**Hosted daily by @ywi - Total Shares: 91,300+**  
+_Updated: January 02, 2026_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -39,16 +39,15 @@ To join a community:
 - **Normal Mode:** `!normal` or `!nhc` (default setting if Normal & HC are available)  
 - **Heroic Mode:** `!heroic` or `!hc`
 
-### 👥 After Entering the Instance
+### 👥 Inviting Friends
 
-- Want to invite more players? You can suggest invite your friends before entering or else type `!lead` and enter the instance — you’ll then have **30 seconds** to list your group in lfg or invite friends. (Raid: Legacy permits cross-faction listings)
-- Otherwise, type `+` in chat to confirm you're done — the character will leave automatically in **15 seconds**.
+- You can simply suggest invite your friends  or alternatively type `!lead`  before entering the instance — you’ll then have **30 seconds** to list your group in lfg to invite others. (Raid: Legacy permits cross-faction listings)
 
 ### 🔍 Optional Commands
 
 - `!q` or `!queue` To check your current position in the queue.
 - `!leave` Removes you from the queue.
-- `!plus` Learn how to mail gold if you’d like to support hosting and gain access to priority queue.
+-  `!plus` Support hosting Ywishare and acess priority queue.
    
 ### ⚙️ **Visual Preview**  
 
