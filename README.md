@@ -9,7 +9,10 @@ _Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Las
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
-A player with a saved lockout can invite others to their group.  
+A player with a saved lockout can invite others to their group. I share near 24/7 lockouts daily for faster mount farming.<br>
+<br>
+By simply whispering Ywishare-Illidan `!id` You access retail-EU lockouts (instance list available below) , if you're the oposite faction (Alliance) you should join a Ywishare communitiy to be able to whisper. 
+
 ### 🔹 Example:  
 If the 9th boss drops a mount, I invite you to a lockout where the first 8 bosses are already killed—you join and directly kill the 9th boss.  
 ✅ The host does not need to be present, making the process automatic.
