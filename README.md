@@ -1,4 +1,4 @@
-# <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft EU Lockout Sharing
+# <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> World of Warcraft EU Lockout Sharing 
 
 <p align="center">
   <img src="https://i.imgur.com/dudcjWM.jpeg" alt="Preview" height="720" width="620" />
@@ -114,8 +114,8 @@ I don’t respond to any in-game whispers besides the available cmds — Ywishar
 💬 **Where to Reach Me:**  
 - I’m most active on **Discord** — that’s the best place to contact me.  
 - I sometimes check in-game communities, but since there are now over 20, Discord is much more reliable.  
-- Discord: [discord.com/invite/Q7p98mwSDC](https://discord.com/invite/Q7p98mwSDC)
 - **Primary in-game community** `gWL73BKI2G9` *(mains only — use other communities for alts)
+- **Discord:** [discord.com/invite/Q7p98mwSDC](https://discord.com/invite/Q7p98mwSDC)
 
 </details>
 
@@ -168,11 +168,19 @@ I don’t respond to any in-game whispers besides the available cmds — Ywishar
 ---
 
 ## 📬 Contact 
-For chat, questions, or suggestions: **Primary in-game community** `gWL73BKI2G9` *(mains only — use other communities for alts)* or join **Discord**: https://discord.com/invite/Q7p98mwSDC/
+For chat, questions, or suggestions: **Primary in-game community** `gWL73BKI2G9` *(mains only — use other communities for alts)*<br> or join 
+**Discord**: https://discord.com/invite/Q7p98mwSDC/
 - **Direct Discord Contact**: `@ywi`  
 - **In-Game**: Whisper `Ywi-Tarrenmill` (If Horde: be a community member).<br>
 
-[![Star this repo](https://img.shields.io/github/stars/ywi/lockoutsharing?style=social)](https://github.com/ywi/lockoutsharing) 
-<a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
-  <img src="https://img.shields.io/badge/May%20RNG%20Be%20With%20You!-blueviolet?logo=blizzard" alt="WoW">
+<a href="https://raider.io/characters/eu/tarren-mill/Ywi" target="_blank">
+  <img src="https://img.shields.io/badge/Raider%20IO-blueviolet?logo=blizzard" alt="Raider IO">
 </a>
+
+<a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
+  <img src="https://img.shields.io/badge/Simple%20Armory-blueviolet?logo=blizzard" alt="Simple Armory">
+</a>
+
+<br>
+
+[![Star this repo](https://img.shields.io/github/stars/ywi/lockoutsharing?style=social)](https://github.com/ywi/lockoutsharing)
