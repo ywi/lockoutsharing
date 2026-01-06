@@ -1,8 +1,7 @@
 # <img src="https://i.ibb.co/fCd2T2P/inv-mechagonspidertank-junker-Nero-AI-Anime-Face.jpg" alt="Discord" width="25"/> World of Warcraft EU Lockout Sharing
 
-<a href="https://simplearmory.com/#/eu/tarren-mill/ywi/collectable/mounts" target="_blank">
-  <img src="https://img.shields.io/badge/WoW-Lockout%20Sharing-blueviolet?logo=blizzard" alt="WoW Lockout Sharing">
-</a>
+<p align="center">
+  <img src="https://i.imgur.com/dudcjWM.jpeg" alt="Preview" height="720" width="620" />
 
 **Hosted daily by [@ywi](https://raider.io/characters/eu/tarren-mill/Ywi) - Total Shares: 91,300+**  
 _Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Last Updated: January 06, 2026_
