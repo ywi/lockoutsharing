@@ -5,7 +5,7 @@
 </a>
 
 **Hosted daily by [@ywi](https://raider.io/characters/eu/tarren-mill/Ywi) - Total Shares: 91,300+**  
-_Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Last Updated: January 02, 2026_
+_Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Last Updated: January 06, 2026_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
@@ -63,8 +63,9 @@ To join a community:
 <details>
 <summary><strong>🟢 When are you online?</strong></summary>
 <br>
-I’m online most of the time. You can also check my status anytime through the member list of any in-game community.<br>
-<img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
+I’m online "almost" all of the time. You can also check my status anytime through the member list of any in-game community.<br>
+Status announcements occur on the Primary in-game community gWL73BKI2G9 (mains only — use other communities for alts) or join Discord: https://discord.com/invite/Q7p98mwSDC/
+<br><img src="https://github.com/user-attachments/assets/739ef402-e230-4c20-b69f-da5ba4762c6f">
 </details>
 
 <details>
@@ -115,6 +116,7 @@ I don’t respond to any in-game whispers besides the available cmds — Ywishar
 - I’m most active on **Discord** — that’s the best place to contact me.  
 - I sometimes check in-game communities, but since there are now over 20, Discord is much more reliable.  
 - Discord: [discord.com/invite/Q7p98mwSDC](https://discord.com/invite/Q7p98mwSDC)
+- **Primary in-game community** `gWL73BKI2G9` *(mains only — use other communities for alts)
 
 </details>
 
