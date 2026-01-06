@@ -82,20 +82,6 @@ Free, forever! Ywishare's been online since Jan/2025 & I really despise the very
 </details>
 
 <details>
-<summary><strong>🛠️ Adding More Shares?</strong></summary>
-<br>
-I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
-
-⚠️ **Limitations:**  
-- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, and Mythic Raids can’t be shared due to Blizzard’s restrictions.  
-- Only Normal/Heroic raids (Released after > Siege of Orgrimmar) and Mega Dungeons with flexible lockouts are shareable.
-- Dungeons cannot be shared unless they're a Mythic mega-dungeon; any other difficulty is not supported since the lockout can't be extended from the raid tab.
-
-**📦 Requests**  
-Contact me to add specific instances for transmog, pets, quests, or possible mounts.
-</details>
-
-<details>
 <summary><strong>❌ Why do I see "No player named Ywishare-Illidan is currently playing"?</strong></summary>
 <br>
 If you see this message, please check the following:<br>
@@ -116,9 +102,20 @@ I don’t respond to any in-game whispers besides the available cmds — Ywishar
 - I sometimes check in-game communities, but since there are now over 20, Discord is much more reliable.  
 - **Primary in-game community** `gWL73BKI2G9` *(mains only — use other communities for alts)
 - **Discord:** [discord.com/invite/Q7p98mwSDC](https://discord.com/invite/Q7p98mwSDC)
-
 </details>
+<details>
+<summary><strong>🛠️ Can you add more shares/instances?</strong></summary>
+<br>
+I believe I’ve covered all available mount instances. If I’ve overlooked any, please let me know!  
 
+⚠️ **Limitations:**  
+- Instances like **Dragon Soul**, **Mogu'shan Vaults**, **Throne of Thunder**, and Mythic Raids can’t be shared due to Blizzard’s restrictions.  
+- **Only Normal/Heroic raids (Released after > Siege of Orgrimmar) and Mega Dungeons** with flexible lockouts are shareable.
+- **Dungeons cannot be shared  unless they're a Mythic  mega-dungeon** ; any other difficulty is not supported since the lockout can't be extended from the raid tab.
+
+**📦 Requests**  
+Contact me to add specific instances for transmog, pets, quests, or possible mounts.
+</details>
 ---
 
 ## 🏰 Available Instances
