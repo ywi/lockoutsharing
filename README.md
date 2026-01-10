@@ -49,7 +49,7 @@ To join a community:
 
 - `!q` or `!queue` To check your current position in the queue.
 - `!leave` Removes you from the queue.
--  `!plus` Support hosting Ywishare and acess priority queue.
+-  `!plus` Support hosting Ywishare and access priority queue.
    
 ### ⚙️ **Visual Preview**  
 
