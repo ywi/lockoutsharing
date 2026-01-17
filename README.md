@@ -5,7 +5,8 @@
 
 Blizzard has decided to perma ban YwiShare after a full year of shares, GGS! <br>
 No plans for future shares. Total shares completed: 94,000+.<br>
-**May RNG Always be with you!**
+**May RNG Always be with you!** <br>
+Contact: https://discord.com/invite/Q7p98mwSDC/
 
 # <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> World of Warcraft EU Lockout Sharing 
 
@@ -13,7 +14,7 @@ No plans for future shares. Total shares completed: 94,000+.<br>
   <img src="https://i.imgur.com/dudcjWM.jpeg" alt="Preview" height="720" width="620" />
 
 **Hosted daily by [@ywi](https://raider.io/characters/eu/tarren-mill/Ywi) - Total Shares: 94,000+**  
-_Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Last Updated: January 15, 2026_
+_Powered by [@kamian](https://www.curseforge.com/members/kamiian/projects) - Last Updated: January 17, 2026_
 
 ## 🎯 What is Lockout Sharing?  
 [Lockout Sharing](https://wowpedia.fandom.com/wiki/Raid_lockout) in **World of Warcraft** allows multiple characters or players to benefit from the same raid lockout.  
