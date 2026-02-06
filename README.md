@@ -7,7 +7,7 @@ Blizzard has decided to perma ban YwiShare after a full year of shares, GGS! <br
 No plans for future shares. Total shares completed: 94,000+.<br>
 **May RNG Always be with you!** <br>
 Discord: https://discord.com/invite/Q7p98mwSDC/ <br>
-Mounts In-game Community: https://www.worldofwarcraft.com/invite/jnL0k4NtLEN
+Mounts In-game Community: https://worldofwarcraft.blizzard.com/en-gb/invite/rjbz3LYCBRn
 
 # <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> World of Warcraft EU Lockout Sharing 
 
