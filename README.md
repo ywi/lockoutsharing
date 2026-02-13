@@ -1,7 +1,7 @@
 # <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> YwiShare, Yeeted by Blizzard.
 
 <p align="center">
-  <img src="https://i.imgur.com/5GCVrjl.png" alt="Preview" height="720" width="620" />
+  <img src="https://i.postimg.cc/ZYfLPm7G/5GCVrjl.png" alt="Preview" height="720" width="620" />
 
 Blizzard has decided to perma ban YwiShare after a full year of shares, GGS! <br>
 No plans for future shares. Total shares completed: 94,000+.<br>
