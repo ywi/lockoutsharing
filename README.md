@@ -1,13 +1,14 @@
-# <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> YwiShare, Yeeted by Blizzard.
+# <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> YwiShare // Jan 2025- Jan 2026
 
 <p align="center">
   <img src="https://i.postimg.cc/ZYfLPm7G/5GCVrjl.png" alt="Preview" height="720" width="620" />
 
-Blizzard has decided to perma ban YwiShare after a full year of shares, GGS! <br>
-No plans for future shares. Total shares completed: 94,000+.<br>
+YwiShare's closed after a full year of shares. GGs to everyone who joined along the way! <br>
+No plans for future shares. Total lockouts provided: 94,000+.<br>
 **May RNG Always be with you!** <br>
 Discord: https://discord.com/invite/Q7p98mwSDC/ <br>
-Mounts In-game Community: https://worldofwarcraft.blizzard.com/en-gb/invite/rjbz3LYCBRn
+Mounts In-game Community: https://worldofwarcraft.blizzard.com/en-gb/invite/rjbz3LYCBRn <br> 
+[@Kamian's](https://www.curseforge.com/members/kamiian/projects) Lockout Sharing Addon: https://www.curseforge.com/wow/addons/lockoutshare-y
 
 # <img src="https://i.ibb.co/kszBLr6S/1mech.jpg" alt="Wow Lockout Sharing" width="25"/> World of Warcraft EU Lockout Sharing 
 
